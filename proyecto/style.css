@@ -1,0 +1,50 @@
+.n1 {
+  color: aqua;
+}
+body {
+  align-items: center;
+  text-align: center;
+  background: url(imagenes/mercatradona.jpg) no-repeat center;
+  background-attachment: fixed;
+  background-size: cover;
+  font-family: sans-serif;
+  width: 100%;
+}
+section {
+  color: rgb(0, 0, 0);
+}
+.Tf {
+  color: yellow;
+}
+.fac {
+  height: 100%;
+  padding: 30px;
+  background: url(imagenes/articulos\ de\ supermercados.jpg) no-repeat center;
+  background-size: cover;
+  width: 95%;
+}
+.clt {
+  height: 110vh;
+  background-color: chartreuse;
+  background-size: cover;
+  width: 80%;
+}
+.tdia {
+  background-color: darkcyan;
+  height: 100vh;
+  background-size: cover;
+  width: 100%;
+}
+
+.title {
+  color: cyan;
+}
+.content {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.hrc {
+  color: rgb(12, 27, 7);
+}
